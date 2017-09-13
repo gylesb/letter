@@ -1,3 +1,25 @@
+body {
+  background-image: url(https://cdn-images-1.medium.com/max/1920/1*AcYLHh0_ve4TNRi6HLFcPA.jpeg);
+  background-position: 29% 0%;
+  color: white;
+}
+
 #story {
   display: none;
+}
+
+.well {
+  text-align: center;
+  background-image: url(https://cdn-images-1.medium.com/max/1920/1*AcYLHh0_ve4TNRi6HLFcPA.jpeg);
+  background-position: 29% 0%;
+  color: white;
+}
+
+.box {
+  border: 2px solid black;
+  margin-left: 5px;
+  margin-right: 5px;
+  padding: 10px;
+  text-align: center;
+  color: white;
 }
